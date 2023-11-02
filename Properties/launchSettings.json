@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AdventureWorksBulkCleanupFunctionApp": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7203",
+      "launchBrowser": false
+    }
+  }
+}
